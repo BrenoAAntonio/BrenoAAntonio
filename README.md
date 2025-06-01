@@ -28,10 +28,3 @@ Atualmente estou cursando o último ano de **Tecnologia em Análise e Desenvolvi
 ## 📈 GitHub Overview:
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BrenoAAntonio&layout=compact&theme=tokyonight&langs_count=6)
-
----
-
-## 🐍 Snake Commit Animation:
-
-![snake gif](https://github.com/BrenoAAntonio/BrenoAAntonio/blob/output/github-contribution-grid-snake.svg)
-
